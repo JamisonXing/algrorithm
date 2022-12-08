@@ -4,7 +4,7 @@ package com.jamison.jianzhi_offer.day15;
  * @author jamison
  */
 public class TreeNode {
-    int val;
+    public int val;
     public TreeNode left;
     public TreeNode right;
     TreeNode() {}
