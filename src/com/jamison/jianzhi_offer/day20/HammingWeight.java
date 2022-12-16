@@ -12,8 +12,8 @@ public class HammingWeight {
         //逐位判断
         int res = 0;
         while(n != 0) {
-            res += n & 1;
-            n >>>= 1;
+            n = n & (n - 1);
+            res++;
         }
         return res;
     }
