@@ -1,4 +1,4 @@
-package com.jamison.jianzhi_offer.day21;
+package com.jamison.jianzhi_offer.day22;
 
 /**
  * <a href="https://leetcode.cn/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/solution/mian-shi-ti-39-shu-zu-zhong-chu-xian-ci-shu-chao-3/">...</a>
